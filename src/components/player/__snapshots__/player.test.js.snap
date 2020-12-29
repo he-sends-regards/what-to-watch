@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Player snapshot test 1`] = `
+<div
+  className="player"
+>
+  <video
+    autoPlay={true}
+    className="player__video"
+    controls={true}
+    src="http://media.xiph.org/mango/tears_of_steel_1080p.webm"
+  />
+  <div
+    id="countdown"
+  >
+    Video ends after 
+    <span
+      id="countdown"
+    >
+      xx
+    </span>
+     seconds.
+  </div>
+  <button
+    className="player__exit"
+    onClick={[Function]}
+    type="button"
+  >
+    Exit
+  </button>
+</div>
+`;

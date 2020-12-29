@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should FilmsList render correctly Should filmsListComponent render correctly 1`] = `
+<div
+  className="catalog__movies-list"
+/>
+`;

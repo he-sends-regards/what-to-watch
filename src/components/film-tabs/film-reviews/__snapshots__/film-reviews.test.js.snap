@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should FilmReviews render correctly 1`] = `
+<div
+  className="movie-card__reviews movie-card__row"
+>
+  <div
+    className="movie-card__reviews-col"
+  >
+    <div
+      className="review"
+    >
+      <blockquote
+        className="review__quote"
+      >
+        <p
+          className="review__text"
+        >
+          I love this movie. This film is a milestone in cinematography. Great Immersive camera-work. This film is an experience and i has already seen it 4 times and I only see more quality of the film.
+        </p>
+        <footer
+          className="review__details"
+        >
+          <cite
+            className="review__author"
+          >
+            Kendall
+          </cite>
+          <span
+            className="review__date"
+          >
+            October 11, 2020
+          </span>
+        </footer>
+      </blockquote>
+      <div
+        className="review__rating"
+      >
+        7.1
+      </div>
+    </div>
+  </div>
+  <div
+    className="movie-card__reviews-col"
+  >
+    <div
+      className="review"
+    >
+      <blockquote
+        className="review__quote"
+      >
+        <p
+          className="review__text"
+        >
+          Poised to be an instant classic, almost everything about this film is phenomenal - the acting, the cinematography, the discography, etc.
+        </p>
+        <footer
+          className="review__details"
+        >
+          <cite
+            className="review__author"
+          >
+            Jack
+          </cite>
+          <span
+            className="review__date"
+          >
+            October 28, 2020
+          </span>
+        </footer>
+      </blockquote>
+      <div
+        className="review__rating"
+      >
+        4.2
+      </div>
+    </div>
+    <div
+      className="review"
+    >
+      <blockquote
+        className="review__quote"
+      >
+        <p
+          className="review__text"
+        >
+          It was well acted, directed, and the music was good. But the story is yawn. Not trying to rip anybody but I checked my watch a dozen times during this movie.
+        </p>
+        <footer
+          className="review__details"
+        >
+          <cite
+            className="review__author"
+          >
+            Emely
+          </cite>
+          <span
+            className="review__date"
+          >
+            October 22, 2020
+          </span>
+        </footer>
+      </blockquote>
+      <div
+        className="review__rating"
+      >
+        6.3
+      </div>
+    </div>
+  </div>
+</div>
+`;
